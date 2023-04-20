@@ -1,0 +1,675 @@
+county_code,county_name,pixel_value,pixel_count
+1,Aitkin,11,254
+1,Aitkin,20,446
+1,Aitkin,18,273
+1,Aitkin,2,3996
+1,Aitkin,16,343
+1,Aitkin,9,55
+1,Aitkin,4,1074
+1,Aitkin,6,1077
+1,Aitkin,12,76
+3,Anoka,2,42
+3,Anoka,22,116
+3,Anoka,20,141
+3,Anoka,6,24
+3,Anoka,11,44
+3,Anoka,16,980
+3,Anoka,4,330
+5,Becker,11,141
+5,Becker,14,3
+5,Becker,18,1200
+5,Becker,16,1160
+5,Becker,6,856
+5,Becker,2,1275
+5,Becker,9,87
+5,Becker,22,10
+5,Becker,4,51
+5,Becker,20,390
+5,Becker,12,290
+7,Beltrami,6,2413
+7,Beltrami,18,1013
+7,Beltrami,16,495
+7,Beltrami,9,802
+7,Beltrami,14,8
+7,Beltrami,22,12
+7,Beltrami,4,256
+7,Beltrami,13,52
+7,Beltrami,11,919
+7,Beltrami,12,23
+7,Beltrami,2,3616
+7,Beltrami,20,2389
+9,Benton,4,60
+9,Benton,9,4
+9,Benton,16,1265
+9,Benton,2,2
+9,Benton,11,17
+9,Benton,6,209
+9,Benton,20,14
+11,Big Stone,2,83
+11,Big Stone,20,39
+11,Big Stone,6,500
+11,Big Stone,11,32
+11,Big Stone,9,38
+11,Big Stone,16,1037
+11,Big Stone,4,231
+11,Big Stone,22,3
+13,Blue Earth,20,31
+13,Blue Earth,11,73
+13,Blue Earth,4,39
+13,Blue Earth,6,350
+13,Blue Earth,16,2279
+13,Blue Earth,2,25
+13,Blue Earth,22,4
+13,Blue Earth,18,2
+15,Brown,18,1
+15,Brown,11,12
+15,Brown,2,15
+15,Brown,22,7
+15,Brown,20,2
+15,Brown,6,66
+15,Brown,16,2131
+17,Carlton,16,47
+17,Carlton,2,1997
+17,Carlton,4,501
+17,Carlton,18,29
+17,Carlton,20,9
+17,Carlton,12,24
+17,Carlton,6,751
+17,Carlton,9,3
+17,Carlton,22,8
+19,Carver,6,69
+19,Carver,14,3
+19,Carver,2,18
+19,Carver,16,1189
+19,Carver,22,9
+19,Carver,20,19
+19,Carver,4,82
+21,Cass,12,12
+21,Cass,20,1448
+21,Cass,14,12
+21,Cass,9,30
+21,Cass,2,3456
+21,Cass,11,184
+21,Cass,16,585
+21,Cass,22,3
+21,Cass,6,2332
+21,Cass,18,511
+21,Cass,4,739
+21,Cass,13,4
+23,Chippewa,16,2095
+23,Chippewa,20,3
+23,Chippewa,2,11
+23,Chippewa,4,20
+23,Chippewa,22,5
+23,Chippewa,6,47
+23,Chippewa,9,3
+25,Chisago,2,149
+25,Chisago,9,3
+25,Chisago,6,209
+25,Chisago,20,47
+25,Chisago,16,929
+25,Chisago,11,43
+25,Chisago,4,252
+27,Clay,6,22
+27,Clay,18,410
+27,Clay,14,21
+27,Clay,12,751
+27,Clay,20,8
+27,Clay,22,3
+27,Clay,15,3
+27,Clay,9,1
+27,Clay,16,2784
+27,Clay,2,10
+29,Clearwater,2,1806
+29,Clearwater,16,619
+29,Clearwater,6,882
+29,Clearwater,4,30
+29,Clearwater,20,159
+29,Clearwater,18,466
+29,Clearwater,12,9
+29,Clearwater,11,57
+31,Cook,9,102
+31,Cook,14,12
+31,Cook,12,2
+31,Cook,18,61
+31,Cook,6,2929
+31,Cook,4,575
+31,Cook,20,447
+31,Cook,2,1846
+31,Cook,11,305
+33,Cottonwood,11,6
+33,Cottonwood,9,3
+33,Cottonwood,16,2287
+33,Cottonwood,4,3
+33,Cottonwood,6,59
+33,Cottonwood,20,5
+33,Cottonwood,2,3
+33,Cottonwood,22,4
+35,Crow Wing,16,306
+35,Crow Wing,18,61
+35,Crow Wing,9,12
+35,Crow Wing,4,1516
+35,Crow Wing,20,529
+35,Crow Wing,2,1412
+35,Crow Wing,6,480
+35,Crow Wing,22,17
+35,Crow Wing,11,67
+37,Dakota,22,101
+37,Dakota,16,1800
+37,Dakota,11,3
+37,Dakota,4,123
+37,Dakota,6,33
+37,Dakota,9,3
+37,Dakota,2,41
+37,Dakota,20,74
+39,Dodge,16,1610
+39,Dodge,6,13
+41,Douglas,20,193
+41,Douglas,2,237
+41,Douglas,13,16
+41,Douglas,6,315
+41,Douglas,22,8
+41,Douglas,11,31
+41,Douglas,16,1309
+41,Douglas,4,590
+41,Douglas,14,9
+41,Douglas,9,20
+43,Faribault,2,4
+43,Faribault,6,173
+43,Faribault,11,111
+43,Faribault,18,7
+43,Faribault,20,15
+43,Faribault,22,4
+43,Faribault,16,2261
+43,Faribault,4,15
+45,Fillmore,16,2766
+45,Fillmore,2,27
+45,Fillmore,6,282
+45,Fillmore,22,6
+47,Freeborn,16,2408
+47,Freeborn,9,8
+47,Freeborn,4,72
+47,Freeborn,2,6
+47,Freeborn,22,12
+47,Freeborn,6,113
+47,Freeborn,20,14
+49,Goodhue,22,15
+49,Goodhue,6,214
+49,Goodhue,4,51
+49,Goodhue,20,132
+49,Goodhue,2,43
+49,Goodhue,16,2404
+51,Grant,20,60
+51,Grant,2,94
+51,Grant,11,38
+51,Grant,22,4
+51,Grant,9,3
+51,Grant,6,185
+51,Grant,16,1650
+51,Grant,18,3
+51,Grant,4,127
+53,Hennepin,6,28
+53,Hennepin,4,330
+53,Hennepin,11,7
+53,Hennepin,16,961
+53,Hennepin,20,125
+53,Hennepin,2,23
+53,Hennepin,14,3
+53,Hennepin,22,769
+53,Hennepin,13,4
+55,Houston,4,98
+55,Houston,16,852
+55,Houston,6,801
+55,Houston,2,96
+55,Houston,22,18
+55,Houston,20,144
+57,Hubbard,2,1365
+57,Hubbard,13,8
+57,Hubbard,20,139
+57,Hubbard,18,607
+57,Hubbard,6,949
+57,Hubbard,9,45
+57,Hubbard,11,479
+57,Hubbard,12,24
+57,Hubbard,4,168
+57,Hubbard,16,42
+59,Isanti,11,22
+59,Isanti,4,174
+59,Isanti,6,226
+59,Isanti,16,1199
+59,Isanti,2,43
+59,Isanti,20,23
+61,Itasca,18,331
+61,Itasca,4,148
+61,Itasca,12,115
+61,Itasca,14,11
+61,Itasca,6,4065
+61,Itasca,9,47
+61,Itasca,11,561
+61,Itasca,2,5121
+61,Itasca,15,4
+61,Itasca,22,8
+61,Itasca,16,81
+61,Itasca,20,819
+63,Jackson,13,8
+63,Jackson,16,2334
+63,Jackson,11,20
+63,Jackson,2,5
+63,Jackson,6,40
+63,Jackson,4,66
+63,Jackson,18,31
+63,Jackson,22,3
+63,Jackson,20,39
+65,Kanabec,20,8
+65,Kanabec,16,686
+65,Kanabec,6,438
+65,Kanabec,4,84
+65,Kanabec,2,804
+67,Kandiyohi,16,2380
+67,Kandiyohi,2,61
+67,Kandiyohi,4,412
+67,Kandiyohi,11,20
+67,Kandiyohi,22,6
+67,Kandiyohi,6,176
+67,Kandiyohi,9,20
+67,Kandiyohi,20,170
+69,Kittson,2,444
+69,Kittson,18,435
+69,Kittson,12,96
+69,Kittson,15,452
+69,Kittson,16,2846
+69,Kittson,9,15
+69,Kittson,6,102
+69,Kittson,11,9
+71,Koochiching,12,15
+71,Koochiching,2,2864
+71,Koochiching,18,633
+71,Koochiching,6,4658
+71,Koochiching,11,2048
+71,Koochiching,4,1287
+71,Koochiching,20,221
+71,Koochiching,16,114
+71,Koochiching,13,7
+71,Koochiching,14,1
+71,Koochiching,9,581
+73,Lac qui Parle,6,650
+73,Lac qui Parle,9,11
+73,Lac qui Parle,4,92
+73,Lac qui Parle,20,41
+73,Lac qui Parle,16,2035
+73,Lac qui Parle,2,8
+73,Lac qui Parle,18,9
+73,Lac qui Parle,13,3
+73,Lac qui Parle,22,7
+75,Lake,12,1
+75,Lake,22,12
+75,Lake,6,4589
+75,Lake,9,93
+75,Lake,4,1295
+75,Lake,18,72
+75,Lake,2,1864
+75,Lake,20,498
+75,Lake,11,477
+77,Lake of the Woods,13,5
+77,Lake of the Woods,11,616
+77,Lake of the Woods,2,736
+77,Lake of the Woods,16,392
+77,Lake of the Woods,18,1288
+77,Lake of the Woods,4,339
+77,Lake of the Woods,6,1380
+77,Lake of the Woods,12,19
+77,Lake of the Woods,20,2067
+77,Lake of the Woods,15,48
+77,Lake of the Woods,9,114
+79,Le Sueur,22,3
+79,Le Sueur,4,67
+79,Le Sueur,11,8
+79,Le Sueur,6,107
+79,Le Sueur,16,1510
+79,Le Sueur,18,3
+79,Le Sueur,20,38
+79,Le Sueur,2,19
+81,Lincoln,16,1863
+81,Lincoln,20,31
+81,Lincoln,13,7
+81,Lincoln,11,4
+81,Lincoln,2,5
+81,Lincoln,4,45
+81,Lincoln,6,41
+83,Lyon,4,11
+83,Lyon,20,12
+83,Lyon,22,16
+83,Lyon,2,7
+83,Lyon,6,100
+83,Lyon,16,2498
+85,McLeod,16,1680
+85,McLeod,22,13
+85,McLeod,6,81
+85,McLeod,4,20
+85,McLeod,11,8
+85,McLeod,20,18
+85,McLeod,2,26
+87,Mahnomen,12,318
+87,Mahnomen,15,7
+87,Mahnomen,11,12
+87,Mahnomen,20,59
+87,Mahnomen,2,610
+87,Mahnomen,18,403
+87,Mahnomen,6,309
+87,Mahnomen,16,543
+89,Marshall,11,96
+89,Marshall,18,467
+89,Marshall,6,352
+89,Marshall,16,4835
+89,Marshall,15,158
+89,Marshall,9,28
+89,Marshall,20,109
+89,Marshall,4,35
+89,Marshall,2,533
+89,Marshall,12,474
+91,Martin,4,34
+91,Martin,16,2365
+91,Martin,6,85
+91,Martin,22,9
+91,Martin,18,12
+91,Martin,20,30
+91,Martin,11,38
+91,Martin,2,11
+93,Meeker,6,269
+93,Meeker,2,55
+93,Meeker,11,1
+93,Meeker,4,89
+93,Meeker,22,6
+93,Meeker,16,1931
+93,Meeker,20,48
+95,Mille Lacs,16,910
+95,Mille Lacs,6,464
+95,Mille Lacs,22,5
+95,Mille Lacs,4,158
+95,Mille Lacs,2,596
+95,Mille Lacs,11,2
+95,Mille Lacs,20,433
+97,Morrison,16,2471
+97,Morrison,20,47
+97,Morrison,22,10
+97,Morrison,4,393
+97,Morrison,6,821
+97,Morrison,2,549
+97,Morrison,11,62
+99,Mower,16,2535
+99,Mower,6,34
+99,Mower,22,23
+101,Murray,2,7
+101,Murray,11,4
+101,Murray,20,51
+101,Murray,4,29
+101,Murray,16,2466
+101,Murray,6,71
+101,Murray,18,4
+103,Nicollet,11,21
+103,Nicollet,6,163
+103,Nicollet,2,18
+103,Nicollet,16,1460
+103,Nicollet,18,3
+103,Nicollet,20,26
+103,Nicollet,14,3
+103,Nicollet,4,25
+103,Nicollet,22,34
+105,Nobles,22,11
+105,Nobles,16,2545
+105,Nobles,20,18
+105,Nobles,18,6
+105,Nobles,2,7
+105,Nobles,6,21
+105,Nobles,13,2
+105,Nobles,11,5
+105,Nobles,4,7
+107,Norman,2,9
+107,Norman,11,62
+107,Norman,18,400
+107,Norman,14,11
+107,Norman,12,526
+107,Norman,9,11
+107,Norman,6,72
+107,Norman,16,2297
+107,Norman,15,10
+109,Olmsted,16,2249
+109,Olmsted,2,11
+109,Olmsted,20,7
+109,Olmsted,22,50
+109,Olmsted,4,7
+109,Olmsted,6,64
+111,Otter Tail,18,471
+111,Otter Tail,16,3760
+111,Otter Tail,2,600
+111,Otter Tail,4,2032
+111,Otter Tail,22,17
+111,Otter Tail,9,75
+111,Otter Tail,11,222
+111,Otter Tail,20,690
+111,Otter Tail,6,521
+111,Otter Tail,13,1
+111,Otter Tail,12,41
+113,Pennington,9,4
+113,Pennington,14,3
+113,Pennington,18,225
+113,Pennington,2,36
+113,Pennington,22,4
+113,Pennington,12,376
+113,Pennington,16,1726
+113,Pennington,20,5
+113,Pennington,6,77
+115,Pine,20,6
+115,Pine,6,1141
+115,Pine,16,568
+115,Pine,2,3136
+115,Pine,4,571
+117,Pipestone,16,1665
+117,Pipestone,20,9
+117,Pipestone,22,3
+119,Polk,4,10
+119,Polk,22,24
+119,Polk,2,138
+119,Polk,15,74
+119,Polk,20,25
+119,Polk,18,1075
+119,Polk,14,11
+119,Polk,6,208
+119,Polk,16,4823
+119,Polk,11,56
+119,Polk,12,1390
+119,Polk,9,13
+121,Pope,13,15
+121,Pope,2,89
+121,Pope,20,95
+121,Pope,6,275
+121,Pope,16,1913
+121,Pope,4,207
+121,Pope,9,14
+121,Pope,14,4
+121,Pope,11,51
+123,Ramsey,14,4
+123,Ramsey,22,369
+123,Ramsey,16,101
+123,Ramsey,20,17
+123,Ramsey,4,127
+125,Red Lake,12,209
+125,Red Lake,18,191
+125,Red Lake,16,1224
+125,Red Lake,6,31
+125,Red Lake,2,6
+125,Red Lake,20,1
+125,Red Lake,15,3
+127,Redwood,22,3
+127,Redwood,18,5
+127,Redwood,16,3177
+127,Redwood,6,55
+127,Redwood,11,10
+127,Redwood,4,5
+129,Renville,11,6
+129,Renville,18,4
+129,Renville,4,8
+129,Renville,20,14
+129,Renville,16,3440
+129,Renville,2,20
+129,Renville,22,3
+129,Renville,6,111
+131,Rice,11,11
+131,Rice,20,12
+131,Rice,2,17
+131,Rice,22,15
+131,Rice,6,30
+131,Rice,4,75
+131,Rice,16,1700
+133,Rock,16,1748
+133,Rock,6,3
+135,Roseau,6,527
+135,Roseau,16,3804
+135,Roseau,2,518
+135,Roseau,18,886
+135,Roseau,11,192
+135,Roseau,20,331
+135,Roseau,12,270
+135,Roseau,9,35
+135,Roseau,4,33
+135,Roseau,15,32
+137,St. Louis,2,8125
+137,St. Louis,13,3
+137,St. Louis,22,154
+137,St. Louis,14,42
+137,St. Louis,12,1843
+137,St. Louis,11,2930
+137,St. Louis,20,1820
+137,St. Louis,4,1475
+137,St. Louis,9,377
+137,St. Louis,6,9446
+137,St. Louis,18,26
+139,Scott,22,4
+139,Scott,4,49
+139,Scott,20,49
+139,Scott,2,16
+139,Scott,6,54
+139,Scott,16,1214
+141,Sherburne,2,28
+141,Sherburne,11,85
+141,Sherburne,9,11
+141,Sherburne,20,163
+141,Sherburne,22,5
+141,Sherburne,6,35
+141,Sherburne,16,987
+141,Sherburne,4,347
+143,Sibley,2,18
+143,Sibley,20,28
+143,Sibley,11,24
+143,Sibley,22,6
+143,Sibley,16,2002
+143,Sibley,6,99
+143,Sibley,18,4
+143,Sibley,4,7
+145,Stearns,16,4032
+145,Stearns,9,12
+145,Stearns,6,452
+145,Stearns,11,20
+145,Stearns,22,43
+145,Stearns,2,139
+145,Stearns,20,57
+145,Stearns,14,3
+145,Stearns,4,406
+147,Steele,2,6
+147,Steele,22,6
+147,Steele,16,1518
+147,Steele,6,39
+149,Stevens,20,19
+149,Stevens,2,81
+149,Stevens,16,1301
+149,Stevens,6,694
+149,Stevens,22,5
+149,Stevens,11,28
+149,Stevens,4,52
+151,Swift,6,267
+151,Swift,20,17
+151,Swift,22,9
+151,Swift,16,2451
+151,Swift,11,2
+151,Swift,4,52
+151,Swift,2,48
+153,Todd,11,47
+153,Todd,6,432
+153,Todd,16,2460
+153,Todd,22,3
+153,Todd,2,271
+153,Todd,4,474
+153,Todd,20,32
+155,Traverse,2,23
+155,Traverse,13,5
+155,Traverse,16,1807
+155,Traverse,4,110
+155,Traverse,20,22
+155,Traverse,11,26
+155,Traverse,18,10
+155,Traverse,6,211
+157,Wabasha,20,157
+157,Wabasha,2,34
+157,Wabasha,16,1443
+157,Wabasha,4,55
+157,Wabasha,22,3
+157,Wabasha,6,324
+159,Wadena,12,21
+159,Wadena,11,175
+159,Wadena,4,432
+159,Wadena,13,7
+159,Wadena,20,2
+159,Wadena,18,514
+159,Wadena,2,55
+159,Wadena,9,37
+159,Wadena,6,101
+159,Wadena,16,725
+161,Waseca,16,1353
+161,Waseca,6,176
+161,Waseca,2,15
+161,Waseca,4,28
+161,Waseca,20,9
+161,Waseca,11,12
+161,Waseca,22,3
+163,Washington,2,79
+163,Washington,22,55
+163,Washington,9,13
+163,Washington,16,1023
+163,Washington,6,47
+163,Washington,20,91
+163,Washington,4,284
+165,Watonwan,22,5
+165,Watonwan,11,31
+165,Watonwan,6,48
+165,Watonwan,16,1562
+165,Watonwan,20,1
+165,Watonwan,2,3
+167,Wilkin,18,51
+167,Wilkin,12,62
+167,Wilkin,16,2333
+167,Wilkin,6,35
+167,Wilkin,13,16
+167,Wilkin,4,29
+167,Wilkin,11,288
+167,Wilkin,2,37
+169,Winona,6,847
+169,Winona,4,53
+169,Winona,22,4
+169,Winona,16,1207
+169,Winona,2,72
+169,Winona,9,3
+169,Winona,20,168
+171,Wright,4,340
+171,Wright,20,86
+171,Wright,11,36
+171,Wright,2,81
+171,Wright,16,1884
+171,Wright,9,9
+171,Wright,6,227
+173,Yellow Medicine,20,11
+173,Yellow Medicine,2,5
+173,Yellow Medicine,13,3
+173,Yellow Medicine,18,7
+173,Yellow Medicine,6,165
+173,Yellow Medicine,4,10
+173,Yellow Medicine,16,2646

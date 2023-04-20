@@ -1,0 +1,27 @@
+CREATE TABLE iowa_liquor_sales
+(
+  invoice_number text,
+  invoice_date date,
+  store_number text,
+  store_name text,
+  address text,
+  city text,
+  zip_code text,
+  store_location text,
+  county_number integer,
+  county text,
+  category text,
+  category_name text,
+  vendor_number bigint,
+  vendor_name text,
+  item_number bigint,
+  item_description text,
+  pack integer,
+  bottle_volume_ml double precision,
+  state_bottle_cost money,
+  state_bottle_retail money,
+  bottles_sold bigint,
+  sale money,
+  volume_sold_liters double precision,
+  volume_sold_gallons double precision
+);

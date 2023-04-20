@@ -1,0 +1,8 @@
+Option 1: Connect to psql console (pgAdmin 3)
+\copy census_tracts_2000_diversity from 'C:\git\GIS5577_spring_2018\GIS5577_lab1\2000_census_tracts_diversity_cleaned.csv' WITH CSV HEADER;
+
+-- Change userDB to your username
+-- Change yourUser to your username
+
+Option 2:
+psql -h gis5777.csaba3m4f8xj.us-east-1.rds.amazonaws.com -d userDB -U yourUser -c "\copy census_tracts_2000_diversity from 'C:\git\GIS5577_spring_2018\GIS5577_lab1\2000_census_tracts_diversity_cleaned.csv' WITH CSV HEADER;""
