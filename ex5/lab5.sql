@@ -1,13 +1,3 @@
-/*
-Name: Gene(Ziying) Cheng
-Homework 5
-The purpose this homework assignment is to develop expertise in processing spatial raster data with PostGIS.
-You should look at the postgis raster cheat sheet to help you formulate your SQL statements.
-
-Grade  /25
-Comments
-*/
-
 
 /* 
 Here is the metadata for the GLC2000 dataset
